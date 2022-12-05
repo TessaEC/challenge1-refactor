@@ -81,24 +81,12 @@ p {
     margin-left: 25px;
 }
 
-/* SECTION STYLES */
+/* MAIN CONTENT SECTION */
 
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-}
-
-
-.benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
 }
 
 .content-section {
@@ -117,6 +105,19 @@ main {
 .content-section h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+/* BENEFIT SECTION ASIDE CONTENT */
+
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
 }
 
 .benefit-section {
