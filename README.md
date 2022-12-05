@@ -6,7 +6,19 @@ Challenge #1 -homework- Refactor code to meet acceptance criteria
 ## Description
 Refactored code for Horiseon SEO information website to make it more accessible, consolidated and easier to read with semantic code.
 The following issues have been changed:
-*
+*Cleaned and adjusted spacing in HTML code
+*Changed < title > from < title > website < title > to < title > Horiseon - Search Engine Optimization Services and Information < title >
+*Removed < div class = "header" > to < header > and removed class element
+*In CSS removed '.' before header and footer to make a regular tag instead of class element
+*Eliminated extra < divs and replaced section divs with < section >
+*Replaced  < div section with links in head to < nav > and changed all div classes in CSS to nav
+*Added id = "search-engine-optimization" to section so that when clicked it will also jump to that section in main to match Online Reputation Management and Social Media Marketing jump links
+*Added alt text to all images for accessibility and SEO
+*Changed footer from h3 to h2 for a better visual appearance on webpage
+*Added < aside > tag to benefits section to view to the right of main
+*Removed class 'content' and replaced with < main > for a more semantic looking structure and readability
+*In CSS grouped all starter code with same attributes and changed each individual label to one simplified label such as benefit section and content section
+
 
 ## Visuals
 Semantic starter code example:
@@ -53,3 +65,4 @@ Website refactored footer:
 ![image](https://user-images.githubusercontent.com/118077000/205673079-3fbc5d35-ecf3-4e9b-a004-a52545fa6477.png)
 
 ## Usage
+SEO information website now has accessibility features, readable semantic features and adjusted spacing for easier use of website.
