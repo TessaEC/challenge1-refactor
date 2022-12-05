@@ -19,6 +19,7 @@ The following issues have been changed:
 *Removed class 'content' and replaced with < main > for a more semantic looking structure and readability
 *In CSS grouped all starter code with same attributes and changed each individual label to one simplified label such as benefit section and content section
 
+To view the website: https://tessaec.github.io/challenge1-refactor/
 
 ## Visuals
 Semantic starter code example:
@@ -75,5 +76,7 @@ Website refactored footer:
 
 ![image](https://user-images.githubusercontent.com/118077000/205673079-3fbc5d35-ecf3-4e9b-a004-a52545fa6477.png)
 
-## Usage
 SEO information website now has accessibility features, readable semantic features and adjusted spacing for easier use of website.
+
+
+
